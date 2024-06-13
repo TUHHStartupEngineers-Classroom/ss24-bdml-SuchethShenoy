@@ -22,6 +22,8 @@ website:
             file: content/01_journal/Automated_Machine_Learning_with_H2O.qmd
           - text: "Automated ML with H20 (II) & Performance Measures"
             file: content/01_journal/AUTO_ML_H20_2_Perf_Measure.qmd
+          - text: "LIME"
+            file: content/01_journal/LIME.qmd
       - text: "Class notes"
         file: content/02_notes/05_class_notes.qmd
       - text: "Links"
